@@ -1,0 +1,208 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-image: url(../img/pexels-cottonbro-4503751\ 1.svg);
+  background-repeat: no-repeat;
+  background-size: 800px;
+}
+
+.header {
+  margin-top: 40px;
+  padding-left: 56px;
+  padding-right: 56px;
+  display: flex;
+  justify-content: space-between;
+}
+.header__logo {
+  width: 36px;
+  height: 36px;
+  padding-left: 14px;
+}
+.header__img {
+  width: 80px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1400px;
+  gap: 40px;
+  margin-top: 5px;
+}
+.header__text {
+  width: 111px;
+  margin-right: 100px;
+  font-size: 14px;
+  font-weight: 700;
+  display: flex;
+  gap: 0px;
+  align-items: center;
+}
+.header__up {
+  margin-top: 0px;
+  color: #156963;
+  background-color: #fff;
+  padding: 8px 20px;
+  width: 111px;
+  align-items: center;
+  white-space: nowrap;
+}
+.header__in {
+  margin-top: px;
+  background: #156963;
+  color: #fff;
+  padding: 8px 20px;
+  width: 111px;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.main__text {
+  margin-left: 1100px;
+}
+.main__text-title {
+  color: #156963;
+  font-size: 68px;
+  width: 523px;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+.main__text-info {
+  color: #2C1500;
+  font-size: 18px;
+}
+.main__btn {
+  margin-top: 300px;
+}
+.main__kaktus {
+  color: #156963;
+  background-color: #fff;
+  padding: 70px 80px;
+  font-size: 32px;
+  font-weight: 500;
+}
+.main__rash {
+  color: #fff;
+  background-color: #156963;
+  padding: 70px 80px;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.foto {
+  margin-top: 400px;
+}
+.foto__cont {
+  margin-left: 56px;
+  margin-right: 56px;
+  display: flex;
+  justify-content: space-between;
+}
+.foto__box-1 {
+  border: 3px solid #E0E0E0;
+  width: 350px;
+  height: 170px;
+  text-align: center;
+}
+.foto__box-2 {
+  border: 3px solid #E0E0E0;
+  width: 350px;
+  height: 170px;
+  text-align: center;
+}
+.foto__box-3 {
+  border: 3px solid #E0E0E0;
+  width: 350px;
+  height: 170px;
+  text-align: center;
+}
+.foto__box-4 {
+  border: 3px solid #E0E0E0;
+  width: 350px;
+  height: 170px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #156963;
+}
+
+.plants {
+  margin-top: 100px;
+}
+.plants__cont {
+  margin-left: 56px;
+  margin-right: 56px;
+  display: flex;
+}
+.plants__box {
+  display: flex;
+  gap: 120px;
+  margin-left: 0px;
+  margin-top: 100px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+.plants__text-title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #000;
+}
+.plants__text-info {
+  font-size: 20px;
+  font-weight: 900;
+  color: #000;
+}
+
+.info {
+  margin-left: 58px;
+  margin-top: 100px;
+  margin-right: 58px;
+}
+.info__cony {
+  margin-left: 58px;
+}
+.info____main-text {
+  width: 510px;
+  height: 200px;
+}
+.info h1 {
+  font-size: 60px;
+  font-weight: 700;
+  color: #2C1500;
+}
+.info__text-info {
+  font-size: 20px;
+  font-weight: 400;
+  color: #2C1500;
+}
+
+.bg {
+  margin-top: 200px;
+}
+.bg__cont {
+  padding-top: 100px;
+  padding-left: 400px;
+  height: 200px;
+  background: url(../img/Rectangle\ 8.svg);
+}
+.bg__title {
+  font-size: 60px;
+  font-weight: 700;
+  color: #2C1500;
+}
+.bg__shop {
+  font-size: 20px;
+  font-weight: 700;
+}
